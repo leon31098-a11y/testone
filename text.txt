@@ -1,1 +1,1 @@
-clean reset
+completely clean reset
